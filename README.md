@@ -62,9 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisaBoyarkina&show_icons=true&count_private=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisaBoyarkina&layout=compact&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlisaBoyarkina&theme=dark&hide_border=true)
+![Metrics](https://raw.githubusercontent.com/AlisaBoyarkina/AlisaBoyarkina/metrics/metrics.svg)
 
 ---
 
