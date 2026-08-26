@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/AlisaBoyarkina/AlisaBoyarkina/metrics/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/AlisaBoyarkina/AlisaBoyarkina/main/github-metrics.svg)
 
 ---
 
